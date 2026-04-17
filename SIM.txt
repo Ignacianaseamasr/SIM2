@@ -4,3 +4,7 @@ materi sim pertemuan pertama
 - review mk basis data 
 - file baru
 - baru
+
+Materi SIM pertemuan kedua :
+- koneksi data dari sql ke r
+- semua data
