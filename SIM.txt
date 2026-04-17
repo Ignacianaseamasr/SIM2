@@ -1,9 +1,10 @@
 materi sim pertemuan pertama 
 - kontrak kuliah
 - pendahuluan
+- review mk basis data 
 - file baru
 - baru
 
 Materi SIM pertemuan kedua :
-- semua data jadi satu
-- salah satu 
+- koneksi data dari sql ke r
+- semua data
